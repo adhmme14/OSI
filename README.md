@@ -1,2 +1,5 @@
-# OSI
-OSI is a simple tool for download any linux you want in termux
+# Welcome
+
+Welcome to OSI, OSI is a tool to install linux in termux
+
+# Installtion
